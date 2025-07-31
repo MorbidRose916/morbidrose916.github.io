@@ -31,6 +31,6 @@ From guiding aircraft through complex airspace to navigating the logic of code �
 
 I'm new to the tech world, but I’m no stranger to high-stakes problem-solving. I thrive in environments that demand clear thinking, adaptability, and continuous learning — all of which translate naturally into writing clean, efficient code.
 
-This GitHub is where I’m documenting my journey into development, building real projects, and laying the foundation for a career in Tech. When I’m not coding, you will find me reading a book or soaking up time with my family and staying grounded in the values that got me this far.
+This GitHub is where I’m documenting my journey into development, my schooling through CodeCademy, building real projects, and laying the foundation for a career in Tech. When I’m not coding, you will find me reading a book or soaking up time with my family and staying grounded in the values that got me this far.
 
 "**_New to Code, Not New to Pressure._**"
