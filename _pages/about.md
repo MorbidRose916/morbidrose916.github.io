@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: New to Code, Not New to Pressure.
+subtitle: *From airspace to interface — same discipline, new mission.*
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>📱: (878) 295-5012</p>
-    <p>📧: morbidroses916@gmail.com</p>
-    <p>🏡: Luthersburg, PA 15848</p>
+#  more_info: >
+#    <p>📧: morbidroses916@gmail.com</p>
+#    <p>🏡: Pennsylvania</p>
+#    <p>📱: (878) 295-5012</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -33,4 +33,4 @@ I'm new to the tech world, but I’m no stranger to high-stakes problem-solving.
 
 This GitHub is where I’m documenting my journey into development, building real projects, and laying the foundation for a career in Tech. When I’m not coding, you will find me reading a book or soaking up time with my family and staying grounded in the values that got me this far.
 
-“From airspace to interface — same discipline, new mission.”
+"**_New to Code, Not New to Pressure._**"
