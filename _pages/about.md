@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: _From airspace to interface - same discipline, new mission._
+subtitle: From airspace to interface - same discipline, new mission.
 
 profile:
   align: right
