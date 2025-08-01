@@ -4,45 +4,59 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-blog",
-          title: "blog",
+          title: "Blog",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/";
           },
         },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-learning",
-          title: "learning",
+          title: "Learning",
           description: "Materials for courses you have completed. Replace this text with your description.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
         },{id: "dropdown-bookshelf",
-              title: "bookshelf",
+              title: "Bookshelf",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/books/";
               },
             },{id: "dropdown-blog",
-              title: "blog",
+              title: "Blog",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/blog/";
+              },
+            },{id: "dropdown-projects",
+              title: "Projects",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/";
+              },
+            },{id: "dropdown-learning",
+              title: "Learning",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/teaching/";
               },
             },{id: "post-a-post-with-plotly-js",
         
