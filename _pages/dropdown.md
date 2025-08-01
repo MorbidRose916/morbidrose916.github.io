@@ -8,12 +8,12 @@ children:
   - title: Bookshelf
     permalink: /books/
   - title: divider
-  - title: Blog
-    permalink: /blog/
-  - title: divider
-  - title: Projects
-    permalink: /projects/
-  - title: divider
-  - title: Learning
-    permalink: /teaching/
+#  - title: Blog
+#    permalink: /blog/
+#  - title: divider
+#  - title: Projects
+#    permalink: /projects/
+#  - title: divider
+#  - title: Learning
+#    permalink: /teaching/
 ---
