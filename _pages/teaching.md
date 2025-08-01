@@ -2,11 +2,40 @@
 layout: page
 permalink: /teaching/
 title: Learning
-description: Materials for courses you have completed. Replace this text with your description.
+description: Certificates Recieved
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# Through CodeCademy
 
-Organize your courses by years, topics, or universities, however you like!
+## HTML
+### 2025
+    * Fundamentals
+    * Elements and Structures
+    * Tables
+    * Forms
+    * Semantic HTML
+
+## CSS
+### 2025
+    * Colors
+    * Typography & Fonts
+    * Model & Layout
+    * Browser Compatibility
+    * Flexbox & Grid
+    * Responsive Design
+    * Transitions & Animations
+    * Variables & Functions
+
+## UI & UX
+### 2025
+    * Color Design
+    * Design Thinking Ideation
+    * User Research Generative
+
+## Command Line
+### 2025
+    * Configuring the Environment
+    * Redirecting Input & Output
+    * Viewing & Changing the File System
