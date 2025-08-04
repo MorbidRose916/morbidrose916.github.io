@@ -5,7 +5,7 @@ author: B.B. Griffith
 cover: assets/img/book_covers/child_sky.jpg
 olid: OL49794863M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9798987427033 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: mystery, fantasy fiction, contemporary fantasy, thriller, high fantasy, metaphysical fiction, suspense, urban fantasy, paranormal fantasy, fairy tale, paranormal fiction
+categories: mystery, fantasy, fiction, contemporary, thriller, metaphysical, suspense, urban, paranormal, fairy, tale
 tags: #1 Best Seller (Amazon)
 buy_link: https://www.amazon.com/Child-Sky-Vanished-B-Griffith/dp/B0CHL5KLFJ/ref=pd_bxgy_thbs_d_sccl_2/141-2353091-3985969?pd_rd_w=ELUit&content-id=amzn1.sym.dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_p=dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_r=GJD9RBM3JJ2YXRGQ2XYA&pd_rd_wg=S2a7I&pd_rd_r=5e0a2320-cdde-472e-80c0-3aa8aa1280ff&pd_rd_i=B0CHL5KLFJ&psc=1
 started: 2025-07-26
