@@ -10,7 +10,7 @@ tags: #1 Best Seller (Amazon)
 buy_link: https://www.amazon.com/dp/1735305871?tag=worldcat-20&linkCode=ogi&th=1&psc=1
 started: 2025-07-14
 finished: 2025-07-25
-released: 2021
+released: 31JAN2021
 stars: 4.32
 # goodreads_review: 6318556633
 status: Finished
