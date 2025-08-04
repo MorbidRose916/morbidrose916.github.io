@@ -5,7 +5,7 @@ author: Brady Hunsaker
 cover: assets/img/book_covers/depths_vanalf.jpg
 olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9798987518274 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: fantasy fiction, epic progression fantasy, action, adventure, inspired by scandanavian folklore
+categories: fantasy fiction, epic progression, action, adventure, inspired by scandanavian folklore
 tags: 
 buy_link: https://www.amazon.com/Depths-Vanalf-Grimnir-Chronicles-1/dp/B0DXBZ7G6B/ref=tmm_pap_swatch_0
 started: 

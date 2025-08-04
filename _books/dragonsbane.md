@@ -5,7 +5,7 @@ author: Brady Hunsaker
 cover: assets/img/book_covers/dragonsbane.jpg
 olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9798987518267 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: Fantasy Fiction, Science Fiction
+categories: Fantasy Fiction, Science
 tags: 
 buy_link: https://www.amazon.com/Dragonsbane-Impervious-Book-Brady-Hunsaker/dp/B0D3H8RLMH/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.iE8WHWLGJy30u3V8-oYebLH_Eqi5XI00NYIHKUFmOL0I53BM4vmz1RIKFMY3dxOMMmvX46nZ0RUryZX0wijVL1qx7zIq4eTiLXpUMiGq-4soHMYJT5v43UjgTdQlXOPTwLwn-zCgn7AfpaIB-wn1NsnjcxAjKXDIUorJzrdjlEyy0x2tRUNptDSKSd-DTHYQdZAGZY7Iyo-p48VB8tCf42NF_th-osJohYd19_T1pIs.XUQYWNiLcFVd1Hqbpc-_Xp3tPnFh99uvIg0o7p8AGdE&qid=1754327044&sr=8-1
 started: 
