@@ -391,8 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/child_of_the_sky/";
-            },},{id: "books-den-fo-the-bear-vanished-series-book-6",
-          title: 'Den fo the Bear (Vanished Series Book 6)',
+            },},{id: "books-den-of-the-bear-vanished-series-book-6",
+          title: 'Den of the Bear (Vanished Series Book 6)',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/den_of_the_bear/";
