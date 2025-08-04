@@ -28,7 +28,7 @@ latest_posts:
 
 From guiding aircraft through complex airspace to navigating the logic of code — I spent 11 years as a U.S. Army Air Traffic Controller, and now I want to channel that same precision, focus, and calm-under-pressure mindset into software development.
 
-I'm new to the tech world, but I’m no stranger to high-stakes problem-solving. I thrive in environments that demand clear thinking, adaptability, and continuous learning — all of which translate naturally into writing clean, efficient code.
+I'm new to the tech world, but I’m no stranger to high-stakes problem-solving. I thrive in environments that demand clear thinking, adaptability, and continuous learning.
 
 This GitHub is where I’m documenting my journey into development, my schooling through CodeCademy, building real projects, and laying the foundation for a career in Tech. When I’m not coding, you will find me reading a book or soaking up time with my family and staying grounded in the values that got me this far.
 

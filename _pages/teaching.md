@@ -13,31 +13,31 @@ nav_order: 6
 
 ### HTML
 ###### 2025
-    * Fundamentals
-    * Elements and Structures
-    * Tables
-    * Forms
-    * Semantic HTML
+    - Fundamentals
+    - Elements and Structures
+    - Tables
+    - Forms
+    - Semantic HTML
 
 ### CSS
 ###### 2025
-    * Colors
-    * Typography & Fonts
-    * Model & Layout
-    * Browser Compatibility
-    * Flexbox & Grid
-    * Responsive Design
-    * Transitions & Animations
-    * Variables & Functions
+    - Colors
+    - Typography & Fonts
+    - Model & Layout
+    - Browser Compatibility
+    - Flexbox & Grid
+    - Responsive Design
+    - Transitions & Animations
+    - Variables & Functions
 
 ### UI & UX
 ###### 2025
-    * Color Design
-    * Design Thinking Ideation
-    * User Research Generative
+    - Color Design
+    - Design Thinking Ideation
+    - User Research Generative
 
 ### Command Line
 ###### 2025
-    * Configuring the Environment
-    * Redirecting Input & Output
-    * Viewing & Changing the File System
+    - Configuring the Environment
+    - Redirecting Input & Output
+    - Viewing & Changing the File System
