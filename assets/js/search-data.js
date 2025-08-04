@@ -426,10 +426,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_wind_thief/";
-            },},{id: "news-page-went-live",
-          title: 'Page went LIVE!😎',
-          description: "",
-          section: "News",},{id: "news-began-my-git-amp-amp-github-course",
+            },},{id: "news-began-my-git-amp-amp-github-course",
           title: 'Began my Git &amp;amp;amp; GitHub Course!',
           description: "",
           section: "News",},{id: "news-personal-github-page",
@@ -437,7 +434,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
+            },},{id: "news-page-went-live",
+          title: 'Page went LIVE!😎',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
