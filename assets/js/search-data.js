@@ -386,11 +386,26 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "books-child-of-the-sky-vanished-series-book-5",
+          title: 'Child of the Sky (Vanished Series Book 5)',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/child_of_the_sky/";
+            },},{id: "books-den-fo-the-bear-vanished-series-book-6",
+          title: 'Den fo the Bear (Vanished Series Book 6)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/den_of_the_bear/";
+            },},{id: "books-the-vanished-series-book-1-3",
+          title: 'The Vanished Series, Book 1 - 3',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_vanished_series_book1-3/";
+            },},{id: "books-the-wind-thief-vanished-series-book-4",
+          title: 'The Wind Thief (Vanished Series Book 4)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_wind_thief/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
