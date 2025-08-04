@@ -396,6 +396,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/den_of_the_bear/";
+            },},{id: "books-depths-of-vanalf-grimnir-chronicles-book-1",
+          title: 'Depths of Vanalf (Grimnir Chronicles Book 1)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/depths_of_vanalf/";
             },},{id: "books-the-vanished-series-book-1-3",
           title: 'The Vanished Series, Book 1 - 3',
           description: "",
