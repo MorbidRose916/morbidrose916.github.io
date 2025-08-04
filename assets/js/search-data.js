@@ -401,6 +401,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/depths_of_vanalf/";
+            },},{id: "books-dragonsbane-impervious-book-1",
+          title: 'Dragonsbane (Impervious Book 1)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/dragonsbane/";
+            },},{id: "books-",
+          title: '',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/everything_is_fucked/";
+            },},{id: "books-",
+          title: '',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/subtle_art_of_not_giving_a_fuck/";
             },},{id: "books-the-vanished-series-book-1-3",
           title: 'The Vanished Series, Book 1 - 3',
           description: "",
