@@ -4,7 +4,7 @@ title: The Subtle Art of Not Giving a F'k: A Counterintuitive Approach to Living
 author: Mark Manson
 cover: assets/img/book_covers/subtle_art.jpg
 olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
-isbn: 9798987518267 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
+isbn: 9798804636129 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: Nonfiction, Self-Help
 tags: #1 New York Times Bestseller, Over 10 million copies sold
 buy_link: https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457721/ref=tmm_pap_swatch_0

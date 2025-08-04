@@ -4,7 +4,7 @@ title: Everything Is F'd: A Book About Hope (F'd Book 2)
 author: Mark Manson
 cover: assets/img/book_covers/everything.jpg
 olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
-isbn: 9798987518267 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
+isbn: 9783745307443 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: Nonfiction, Self-Help
 tags: New York Times Bestseller
 buy_link: https://www.amazon.com/Everything-F-cked-Mark-Manson/dp/0062956566/ref=tmm_pap_swatch_0
