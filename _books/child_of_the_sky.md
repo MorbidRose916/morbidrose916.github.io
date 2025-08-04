@@ -2,6 +2,8 @@
 layout: book-review
 title: Child of the Sky (Vanished Series Book 5)
 author: B.B. Griffith
+language: English
+pages: 292
 cover: assets/img/book_covers/child_sky.jpg
 olid: OL49794863M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9798987427033 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
@@ -10,13 +12,11 @@ tags: #1 Best Seller (Amazon)
 buy_link: https://www.amazon.com/Child-Sky-Vanished-B-Griffith/dp/B0CHL5KLFJ/ref=pd_bxgy_thbs_d_sccl_2/141-2353091-3985969?pd_rd_w=ELUit&content-id=amzn1.sym.dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_p=dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_r=GJD9RBM3JJ2YXRGQ2XYA&pd_rd_wg=S2a7I&pd_rd_r=5e0a2320-cdde-472e-80c0-3aa8aa1280ff&pd_rd_i=B0CHL5KLFJ&psc=1
 started: 2025-07-26
 finished: 2025-07-28
-released: 2023
+released: 11SEP2023
 stars: 4.80
 # goodreads_review: 6318556633
 status: Finished
 ---
-
-English, 292 pages, Publicated: 11SEP2023
 
 A storm is bearing down on Chaco Navajo Reservation. The Arroyo is in shambles. Its people gone missing. Grant, Kai and the few others that remain may not have the strength to withstand what’s coming.
 
