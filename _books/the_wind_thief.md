@@ -16,8 +16,6 @@ stars: 4.70
 status: Finished
 ---
 
-English, 286 pages, Publicated: 9DEC2022
-
 A dark wind gathers on Chaco Navajo reservation, deep in the heart of New Mexico. Grant Romer, the Keeper of the secret bell, can feel it pulling at his soul. Caroline and Owen work as hard as they can to treat the Navajo, but the dark wind brings a desperation to their clinic that is beyond western medicine.
 
 A stranger arrives ahead of the storm. A powerful medicine man from a faraway clan who goes by the name Jacob Dark Sky. He claims he can heal the people of Chaco with a song. Joey Flatwood and a handful of the other old-school Navajo aren’t so sure. They know Dark Sky isn’t what he seems, and that the cure he offers could end up destroying the very people it’s meant to help, right along with the reservation itself.

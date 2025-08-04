@@ -2,8 +2,6 @@
 layout: book-review
 title: Child of the Sky (Vanished Series Book 5)
 author: B.B. Griffith
-language: English
-pages: 292
 cover: assets/img/book_covers/child_sky.jpg
 olid: OL49794863M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9798987427033 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)

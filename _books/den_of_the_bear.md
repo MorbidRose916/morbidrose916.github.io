@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: Den fo the Bear (Vanished Series Book 6)
+title: Den of the Bear (Vanished Series Book 6)
 author: B.B. Griffith
 cover: assets/img/book_covers/den_bear.jpg
 olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
@@ -15,8 +15,6 @@ stars: 4.80
 # goodreads_review: 6318556633
 status: Reading
 ---
-
-English, 312 pages, Publicated: 20SEP2024
 
 On the Rez, everything is connected. Black Bear is banished, but the scars he left in his wake won’t heal. To set things right and return what was lost, Owen and Ben must chance a journey along a dangerous road that bridges the land of the living and the dead.
 

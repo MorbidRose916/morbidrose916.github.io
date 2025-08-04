@@ -16,8 +16,6 @@ stars: 4.32
 status: Finished
 ---
 
-English, 632 pages, Publicated: 23JAN2021
-
 I am not really good giving reviews without giving away surprises intended on the emotionally driven storyline. I will summarize each book going forward in order to potentially intrigue readers to look into the books themselves!
 
 Follow the Crow (Book 1)
