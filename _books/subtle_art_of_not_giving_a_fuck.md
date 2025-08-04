@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life
+title: The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life (F*cked Book 1)
 author: Mark Manson
 cover: assets/img/book_covers/subtle_art.jpg
 olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
