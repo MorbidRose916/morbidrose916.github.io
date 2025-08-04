@@ -426,8 +426,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_wind_thief/";
-            },},{id: "news-began-my-git-amp-amp-github-course",
-          title: 'Began my Git &amp;amp;amp; GitHub Course!',
+            },},{id: "news-began-my-coding-journey",
+          title: 'Began my Coding Journey!',
           description: "",
           section: "News",},{id: "news-personal-github-page",
           title: 'Personal GitHub Page',
