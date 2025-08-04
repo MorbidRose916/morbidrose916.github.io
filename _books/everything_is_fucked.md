@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: Everything Is F*cked: A Book About Hope (F*cked Book 2)
+title: Everything Is F'd: A Book About Hope (F'd Book 2)
 author: Mark Manson
 cover: assets/img/book_covers/everything.jpg
 olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
