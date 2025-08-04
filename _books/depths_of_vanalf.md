@@ -21,5 +21,3 @@ The first book of an epic progression fantasy series inspired by Scandinavian fo
 Hallik has been training his whole life to become a Grimnir, a magic-wielder who can aid in keeping their island safe from the monster hordes outside the shield protecting them. Hundreds of years ago, Grimnirs created a shield around their island. Hallik has waited his whole life to become one of the elite Grimnir who can keep their enemies at bay.
 
 But when monsters start showing up on the island, it appears they aren’t as safe as they thought. They’ll need more Grimnirs to ensure their safety, but to become a magic-wielder, they’ll need to traverse the depths of Vanalf, a cave system that connects the realms, making it the most dangerous place imaginable. Fortunately, there’s one ragtag crew that’s up to the task.
-
-An epic progression fantasy inspired by Scandinavian folklore, The Witcher, and Dungeons & Dragons, The Depths of Vanalf is the first in an epic series that will leave you spellbound.

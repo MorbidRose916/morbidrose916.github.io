@@ -38,4 +38,4 @@ Caroline and Owen have been on the move for years trying to find a place to call
 
 They don't know it yet, but all of them are travelling in the same direction. Back to Chaco Navajo Reservation . . . which is exactly what the coyote wants.---Summary.
 
-RECOMMENDED!
+RECOMMEND!
