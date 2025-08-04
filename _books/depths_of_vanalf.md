@@ -13,7 +13,7 @@ finished:
 released: 8APR2025
 stars: 4.40
 # goodreads_review: 6318556633
-status: Pending
+status: 
 ---
 
 The first book of an epic progression fantasy series inspired by Scandinavian folklore, The Witcher, and Dungeons & Dragons, where a young man named Hallik has been training his whole life to become a magic-wielder, or Grimnir, to keep his island safe. But when monsters breach the shield protecting his realm, Hallik must venture into the mystical cave of Vanalf to hone his skills to protect everything he holds dear.
