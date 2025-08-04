@@ -5,7 +5,7 @@ author: B.B. Griffith
 cover: assets/img/book_covers/vanished_series_1-3.jpg
 olid: OL38631996M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 1735305871 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: mystery, fan-fiction, contemporary fantasy, thriller, high fantasy, metaphysical fiction, suspense, urban fantasy, paranormal fantasy, fairy tale, paranormal fiction
+categories: mystery, fantasy fiction, contemporary fantasy, thriller, high fantasy, metaphysical fiction, suspense, urban fantasy, paranormal fantasy, fairy tale, paranormal fiction
 tags: #1 Best Seller (Amazon)
 buy_link: https://www.amazon.com/dp/1735305871?tag=worldcat-20&linkCode=ogi&th=1&psc=1
 started: 2025-07-14

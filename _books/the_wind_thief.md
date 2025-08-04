@@ -5,7 +5,7 @@ author: B.B. Griffith
 cover: assets/img/book_covers/wind_thief.jpg
 olid: OL46153331M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9798987427019 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: mystery, fan-fiction, contemporary fantasy, thriller, high fantasy, metaphysical fiction, suspense, urban fantasy, paranormal fantasy, fairy tale, paranormal fiction
+categories: mystery, fantasy fiction, contemporary fantasy, thriller, high fantasy, metaphysical fiction, suspense, urban fantasy, paranormal fantasy, fairy tale, paranormal fiction
 tags: #1 Best Seller (Amazon)
 buy_link: https://www.amazon.com/Wind-Thief-Vanished-4/dp/B0BQ99KF9K/ref=pd_bxgy_d_sccl_1/141-2353091-3985969?pd_rd_w=BWMiv&content-id=amzn1.sym.dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_p=dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_r=BBGFX7QHQHDHM5YWCVHF&pd_rd_wg=CjzGs&pd_rd_r=1d63a293-b795-4859-b2de-547d1d5edc7e&pd_rd_i=B0BQ99KF9K&psc=1
 started: 2025-07-25

@@ -5,7 +5,7 @@ author: B.B. Griffith
 cover: assets/img/book_covers/den_bear.jpg
 olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9798987427057 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: mystery, fan-fiction, contemporary fantasy, thriller, high fantasy, metaphysical fiction, suspense, urban fantasy, paranormal fantasy, fairy tale, paranormal fiction
+categories: mystery, fantasy fiction, contemporary fantasy, thriller, high fantasy, metaphysical fiction, suspense, urban fantasy, paranormal fantasy, fairy tale, paranormal fiction
 tags: #1 Best Seller (Amazon)
 buy_link: https://www.amazon.com/Den-Bear-Vanished-B-Griffith/dp/B0DH2FTT4Z/ref=pd_bxgy_thbs_d_sccl_2/141-2353091-3985969?pd_rd_w=N7Pvu&content-id=amzn1.sym.dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_p=dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_r=PJPH8Z4NSVHVV1TB4PRZ&pd_rd_wg=hWgKR&pd_rd_r=45c10f59-0f17-4553-8ae1-fe37bf301f29&pd_rd_i=B0DH2FTT4Z&psc=1
 started: 2025-07-29
