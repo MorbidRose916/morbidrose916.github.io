@@ -13,7 +13,7 @@ finished: 2025-08-04
 released: 20SEP2024
 stars: 4.80
 # goodreads_review: 6318556633
-status: Reading
+status: Finished
 ---
 
 On the Rez, everything is connected. Black Bear is banished, but the scars he left in his wake won’t heal. To set things right and return what was lost, Owen and Ben must chance a journey along a dangerous road that bridges the land of the living and the dead.
