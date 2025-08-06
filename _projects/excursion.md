@@ -8,9 +8,9 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+In this project, I had to create a web page which advertises a product called “Excursion.” From start to finish using HTML, CSS, Command Line Interface, Git, and GitHub.
+
+The web page should advertise a mobile app which helps users record and share their experiences, using a video and landscape imagery to set the scene. A landing page is a vital tool in marketing a product these days, and the goal will be to entice potential customers into using the product.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
