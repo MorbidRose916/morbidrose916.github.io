@@ -10,10 +10,10 @@ children:
   - title: divider
 #  - title: Blog
 #    permalink: /blog/
-#  - title: divider
-#  - title: Projects
-#    permalink: /projects/
-#  - title: divider
+  - title: divider
+  - title: Projects
+    permalink: /projects/
+  - title: divider
 #  - title: Learning
 #    permalink: /teaching/
 ---
