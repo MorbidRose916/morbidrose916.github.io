@@ -79,6 +79,51 @@ Here's the code for the last row of images above:
   </div>
 </div>
 ```
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="resources\css\style.css" />
+    <title>Excursion</title>
+  </head>
+  <body>
+    <h1>Discover hidden places in the world around you</h1>
+    <a href="#">Download Excursion (Coming soon!)</a>
+
+    <div class="phone-img">
+      <video autoplay loop muted playsinline>
+        <source src="resources\videos\excursion.mp4" type="video/mp4" />
+        Your browser does not support the video tag.
+      </video>
+    </div>
+
+    <div class="section">
+      <h2>Your personal travel guide</h2>
+      <p class="subtitle">
+        Excursion remembers places you like, and recommends new points of
+        interest around you.
+      </p>
+      <img
+        src="resources\images\camp.jpg"
+        alt="Tent at night"
+        class="camp-img"
+      />
+    </div>
+
+    <div class="section">
+      <div class="icon">
+        <img src="resources\images\phone.png" alt="phone-icon" />
+      </div>
+      <h2>Coming Soon for iPhone and Android</h2>
+      <a href="#">Download Excursion (Coming soon!)</a>
+    </div>
+
+    <div class="footer">© Excursion</div>
+  </body>
+</html>
+```
 
 A preview of the page is available <a src="https://content.codecademy.com/programs/freelance-one/excursion/index.html?_gl=1*1f0xdsd*_gcl_au*MTk1NDM0OTYwOS4xNzUzNzk1OTczLjE1NDg5NDAzODIuMTc1NDMzMDUxMC4xNzU0MzMxNTcw*_ga*MTM1MjM0MjE2OS4xNzUzNzk1OTcz*_ga_3LRZM6TM9L*czE3NTQ0OTkxMjYkbzEzJGcxJHQxNzU0NTAxMzAzJGo1MiRsMCRoMA..">here</a>!
 
