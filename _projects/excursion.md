@@ -2,7 +2,7 @@
 layout: page
 title: Excursion
 description: CodeCademy Off-Platform website project
-img: assets\img\project_covers\CodeCademy.jpg
+img: assets\img\CodeCademy.jpg
 importance: 1
 category: work
 related_publications: true
