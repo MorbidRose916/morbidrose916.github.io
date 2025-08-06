@@ -79,6 +79,7 @@ Here's the code for the last row of images above:
   </div>
 </div>
 ```
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -92,7 +93,7 @@ Here's the code for the last row of images above:
     <h1>Discover hidden places in the world around you</h1>
     <a href="#">Download Excursion (Coming soon!)</a>
 
-    <div class="phone-img">
+    <div class="phone-vid">
       <video autoplay loop muted playsinline>
         <source src="resources\videos\excursion.mp4" type="video/mp4" />
         Your browser does not support the video tag.
@@ -123,6 +124,77 @@ Here's the code for the last row of images above:
     <div class="footer">© Excursion</div>
   </body>
 </html>
+```
+
+Below is the styling 
+
+```css
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: white;
+  font-family: Verdana, Tahoma, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  margin-top: 40px;
+}
+
+h2 {
+  font-size: 42 px;
+  font-weight: 300;
+}
+
+h2 p {
+  font-size: 21px;
+  color: #808080;
+}
+
+a {
+  color: #7fffd4;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.phone-vid {
+  margin: 20px 0;
+}
+
+.section {
+  margin: 60px 20px;
+}
+
+.subtitle {
+  color: gray;
+  font-size: 0.9em;
+  margin-top: -10px;
+  margin-bottom: 40px;
+}
+
+.camp-img {
+  width: 90%;
+  max-width: 800px;
+  border-radius: 8px;
+}
+
+.icon {
+  font-size: 3em;
+  margin: 20px 0;
+}
+
+.footer {
+  text-align: right;
+  margin-top: 40px;
+  font-size: 0.7em;
+  color: #808080;
+}
 ```
 
 A preview of the page is available <a src="https://content.codecademy.com/programs/freelance-one/excursion/index.html?_gl=1*1f0xdsd*_gcl_au*MTk1NDM0OTYwOS4xNzUzNzk1OTczLjE1NDg5NDAzODIuMTc1NDMzMDUxMC4xNzU0MzMxNTcw*_ga*MTM1MjM0MjE2OS4xNzUzNzk1OTcz*_ga_3LRZM6TM9L*czE3NTQ0OTkxMjYkbzEzJGcxJHQxNzU0NTAxMzAzJGo1MiRsMCRoMA..">here</a>!
