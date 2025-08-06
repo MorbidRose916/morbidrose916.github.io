@@ -16,15 +16,13 @@ I had built a landing page since it's a vital tool in marketing a product these 
 
 The files given to us are:
 
-    --- 
-Images: 
-  camp.jpg (Tents in the dirt, at night) 
-  phone.png (small white smartphone icon) 
-Video: 
-  excursion.mp4 (smartphone with looped video playing within it) 
-    --- 
+Images:
+    - camp.jpg (Tents in the dirt, at night) 
+    - phone.png (small white smartphone icon)
+Video:
+    - excursion.mp4 (smartphone with looped video playing within it) 
 
-*I would have rather shown the files w/ their name captioned underneath. Something going on w/ the theme that I can't quite figure out as of yet.*
+*I would rahter have shown the files rendered w/ their name captioned underneath. Something going on w/ the theme that I can't quite figure out yet.*
 
 
 Below is the HTML:
@@ -148,6 +146,6 @@ a:hover {
 }
 ```
 
-<p text-align: center>A preview of the page is available [here!](https://content.codecademy.com/programs/freelance-one/excursion/index.html?_gl=1*1f0xdsd*_gcl_au*MTk1NDM0OTYwOS4xNzUzNzk1OTczLjE1NDg5NDAzODIuMTc1NDMzMDUxMC4xNzU0MzMxNTcw*_ga*MTM1MjM0MjE2OS4xNzUzNzk1OTcz*_ga_3LRZM6TM9L*czE3NTQ0OTkxMjYkbzEzJGcxJHQxNzU0NTAxMzAzJGo1MiRsMCRoMA..)</p>
+A preview of the page is available [here!](https://content.codecademy.com/programs/freelance-one/excursion/index.html?_gl=1*1f0xdsd*_gcl_au*MTk1NDM0OTYwOS4xNzUzNzk1OTczLjE1NDg5NDAzODIuMTc1NDMzMDUxMC4xNzU0MzMxNTcw*_ga*MTM1MjM0MjE2OS4xNzUzNzk1OTcz*_ga_3LRZM6TM9L*czE3NTQ0OTkxMjYkbzEzJGcxJHQxNzU0NTAxMzAzJGo1MiRsMCRoMA..)
 
 {% endraw %}
