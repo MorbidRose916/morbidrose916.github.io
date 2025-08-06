@@ -75,7 +75,6 @@ Below is the HTML:
 ```
 
 Below is the styling:
-{% raw %}
 
 ```css
 body {
