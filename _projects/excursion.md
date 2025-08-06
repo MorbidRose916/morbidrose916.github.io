@@ -80,6 +80,8 @@ Here's the code for the last row of images above:
 </div>
 ```
 
+Below is the HTML:
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -126,7 +128,7 @@ Here's the code for the last row of images above:
 </html>
 ```
 
-Below is the styling 
+Below is the styling:
 
 ```css
 body {
