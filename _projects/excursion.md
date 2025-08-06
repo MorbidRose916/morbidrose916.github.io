@@ -17,11 +17,14 @@ I had built a landing page since it's a vital tool in marketing a product these 
 The files given to us are:
 
     ---
+
 Images:
   camp.jpg (Tents in the dirt, at night)
   phone.png (small white smartphone icon)
+  
 Video:
   excursion.mp4 (smartphone with looped video playing within it)
+
     ---
 
 *I would have rather shown the files w/ their name captioned underneath. Something going on w/ the theme that I can't quite figure out as of yet.*
