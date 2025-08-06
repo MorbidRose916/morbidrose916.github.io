@@ -19,6 +19,7 @@ The files given to me were:
 Images:
     - camp.jpg (Tents in the dirt, at night) 
     - phone.png (small white smartphone icon)
+
 Video:
     - excursion.mp4 (smartphone framed video of nature) 
 
