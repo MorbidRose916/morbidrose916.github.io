@@ -17,9 +17,9 @@ I had built a landing page since it's a vital tool in marketing a product these 
 The files given to us are:
 
 Images:
-    ![alt text](assets\img\excursion_proj\camp.jpg "camp.jpg")
+    ![camp.jpg](assets\img\excursion_proj\camp.jpg "camp.jpg")
     - camp.jpg (Tents in the dirt, at night) 
-    ![alt text](assets\img\excursion_proj\phone.png "phone.png")
+    ![phone.png](assets\img\excursion_proj\phone.png "phone.png")
     - phone.png (small white smartphone icon)
 Video:
     [![excursion.mp4](assets\video\excursion.mp4)]
