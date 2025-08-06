@@ -17,9 +17,12 @@ I had built a landing page since it's a vital tool in marketing a product these 
 The files given to us are:
 
 Images:
+    ![alt text](assets\img\excursion_proj\camp.jpg "camp.jpg")
     - camp.jpg (Tents in the dirt, at night) 
+    ![alt text](assets\img\excursion_proj\phone.png "phone.png")
     - phone.png (small white smartphone icon)
 Video:
+    [![excursion.mp4](assets\video\excursion.mp4)]
     - excursion.mp4 (smartphone with looped video playing within it) 
 
 *I would rahter have shown the files rendered w/ their name captioned underneath. Something going on w/ the theme that I can't quite figure out yet.*
