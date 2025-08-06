@@ -20,7 +20,7 @@ Images:
     - camp.jpg (Tents in the dirt, at night) 
     - phone.png (small white smartphone icon)
 Video:
-    - excursion.mp4 (smartphone with looped video playing within it) 
+    - excursion.mp4 (smartphone framed video of nature) 
 
 *I would rather have shown the files rendered w/ their name captioned underneath. Something going on that I can't quite figure out yet.*
 
