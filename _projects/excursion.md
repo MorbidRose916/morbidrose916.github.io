@@ -43,7 +43,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    This is the designer mock to go off of.
+    This is the designer mock given to work with.
 </div>
 
 
