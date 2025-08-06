@@ -14,7 +14,7 @@ The web page needed to advertise a mobile app which helps users record and share
 
 I had built a landing page since it's a vital tool in marketing a product these days, the goal will be to entice potential customers into using the product.
 
-The files given to us are:
+The files given to me were:
 
 Images:
     - camp.jpg (Tents in the dirt, at night) 
