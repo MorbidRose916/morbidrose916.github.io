@@ -441,9 +441,9 @@ ninja.data = [{
             },},{id: "news-page-went-live",
           title: 'Page went LIVE!😎',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-excursion",
+          title: 'Excursion',
+          description: "CodeCademy Off-Platform website project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/excursion/";
             },},{
