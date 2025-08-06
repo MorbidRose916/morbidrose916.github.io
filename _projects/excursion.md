@@ -2,7 +2,7 @@
 layout: page
 title: Excursion
 description: CodeCademy Off-Platform website project
-img: assets\img\CodeCademy.jpg
+img: 
 importance: 1
 category: work
 related_publications: true
@@ -10,7 +10,9 @@ related_publications: true
 
 In this project, I had to create a web page which advertises a product called “Excursion.” From start to finish using HTML, CSS, Command Line Interface, Git, and GitHub.
 
-The web page needed to advertise a mobile app which helps users record and share their experiences, using a video and landscape imagery to set the scene. Need to build a landing page since it's a vital tool in marketing a product these days, the goal will be to entice potential customers into using the product.
+The web page needed to advertise a mobile app which helps users record and share their experiences, using a video and landscape imagery to set the scene. 
+
+I had built a landing page since it's a vital tool in marketing a product these days, the goal will be to entice potential customers into using the product.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
