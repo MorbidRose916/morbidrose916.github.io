@@ -148,6 +148,6 @@ a:hover {
 }
 ```
 
-A preview of the page is available [here!](https://content.codecademy.com/programs/freelance-one/excursion/index.html?_gl=1*1f0xdsd*_gcl_au*MTk1NDM0OTYwOS4xNzUzNzk1OTczLjE1NDg5NDAzODIuMTc1NDMzMDUxMC4xNzU0MzMxNTcw*_ga*MTM1MjM0MjE2OS4xNzUzNzk1OTcz*_ga_3LRZM6TM9L*czE3NTQ0OTkxMjYkbzEzJGcxJHQxNzU0NTAxMzAzJGo1MiRsMCRoMA..)
+<p text-align: center>A preview of the page is available [here!](https://content.codecademy.com/programs/freelance-one/excursion/index.html?_gl=1*1f0xdsd*_gcl_au*MTk1NDM0OTYwOS4xNzUzNzk1OTczLjE1NDg5NDAzODIuMTc1NDMzMDUxMC4xNzU0MzMxNTcw*_ga*MTM1MjM0MjE2OS4xNzUzNzk1OTcz*_ga_3LRZM6TM9L*czE3NTQ0OTkxMjYkbzEzJGcxJHQxNzU0NTAxMzAzJGo1MiRsMCRoMA..)</p>
 
 {% endraw %}
