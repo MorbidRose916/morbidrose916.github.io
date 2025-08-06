@@ -14,37 +14,16 @@ The web page needed to advertise a mobile app which helps users record and share
 
 I had built a landing page since it's a vital tool in marketing a product these days, the goal will be to entice potential customers into using the product.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
+The files given to us are:
     ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    Images:
+        - camp.jpg (Tents in the dirt, at night)
+        - phone.png (small white smartphone icon)
+    Video:
+        - excursion.mp4 (smartphone with looped video playing within it)
     ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\excursion_proj\excursion_redline_MOCK.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This is the designer mock given to work with.
-</div>
+*I would have rather shown the files w/ their name captioned underneath. Something going on w/ the theme that I can't quite figure out as of yet.*
 
 
 Below is the HTML:
