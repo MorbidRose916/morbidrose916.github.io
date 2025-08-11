@@ -41,3 +41,8 @@ nav_order: 6
     - Configuring the Environment
     - Redirecting Input & Output
     - Viewing & Changing the File System
+
+### Git & GitHub
+###### 2025
+    - Basics
+    - How To Deploy a Website
