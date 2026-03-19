@@ -26,3 +26,13 @@ a {
 a:hover {
   color: #fff;
 }
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+#intro {
+  max-width: 600px;
+}
