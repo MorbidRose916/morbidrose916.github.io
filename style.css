@@ -1,0 +1,22 @@
+body {
+  background-color: #111;
+  color: #e4e4e4;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  max-width: 700px;
+  margin: 80px auto;
+  line-height: 1.6;
+  padding: 0 20px;
+}
+
+h1 {
+  font-weight: normal;
+}
+
+a {
+  color: #aaa;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fff;
+}
