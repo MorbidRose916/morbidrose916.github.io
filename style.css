@@ -39,6 +39,13 @@ p {
   border-radius: 4px;
 }
 
+.profile-img {
+  width: 180px;
+  height: auto;
+  border-radius: 6px;
+  margin: 10px 0;
+}
+
 .about-text {
   max-width: 500px;
 }
