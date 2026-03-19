@@ -20,6 +20,29 @@ p {
   color: #bfbfbf;
 }
 
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.about {
+  display: flex;
+  gap: 30px;
+  align-items: flex-start;
+}
+
+.about img {
+  width: 150px;
+  height: auto;
+  border-radius: 4px;
+}
+
+.about-text {
+  max-width: 500px;
+}
+
 a {
   color: #aaa;
   text-decoration: none;
@@ -27,13 +50,6 @@ a {
 
 a:hover {
   color: #fff;
-}
-
-.container {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 20px;
 }
 
 #intro {
