@@ -1,15 +1,21 @@
 body {
-  background-color: #111;
-  color: #e4e4e4;
+  background-color: #121212;
+  color: #e0e0e0;
   font-family: Georgia, "Times New Roman", Times, serif;
   max-width: 700px;
-  margin: 80px auto;
-  line-height: 1.6;
+  margin: 100px auto;
+  line-height: 1.7;
   padding: 0 20px;
 }
 
 h1 {
   font-weight: normal;
+  margin-bottom: 20px;
+}
+
+p {
+  margin-top: 0;
+  color: #bfbfbf;
 }
 
 a {
