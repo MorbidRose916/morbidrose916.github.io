@@ -17,6 +17,7 @@ h1 {
 
 p {
   margin-top: 0;
+  margin-bottom: 20px;
   color: #bfbfbf;
 }
 
@@ -70,9 +71,9 @@ a:hover {
   color: #fff;
 }
 
-#intro {
+.intro {
   max-width: 600px;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   font-size: 1.05em;
 }
 
