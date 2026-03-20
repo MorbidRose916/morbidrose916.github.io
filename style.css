@@ -65,7 +65,7 @@ hr {
 a {
   color: #aaa;
   text-decoration: none;
-  transition: 0.2s ease;
+  transition: color 0.2s ease;
 }
 
 a:hover {
