@@ -51,7 +51,8 @@ hr {
   width: 180px;
   height: auto;
   border-radius: 6px;
-  margin: 10px 0;
+  margin: 15px 0;
+  display: block;
 }
 
 .about-text {
