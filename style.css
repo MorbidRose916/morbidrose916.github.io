@@ -1,4 +1,6 @@
 body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   background-color: #121212;
   color: #e0e0e0;
   font-family: Georgia, "Times New Roman", Times, serif;
