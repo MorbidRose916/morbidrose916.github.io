@@ -106,4 +106,8 @@ footer p {
   .about-text {
     max-width: 90%;
   }
+  .about {
+    flex-direction: column !important;
+    align-items: center;
+  }
 }
