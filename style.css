@@ -53,12 +53,12 @@ hr {
 
 .profile-img {
   width: 100%;
-  max-width: 180px;
+  max-width: 350px;
   height: auto;
   border-radius: 6px;
   margin: 20px auto;
   display: block;
-  border: 1px solid #444;
+  border: 1px solid #555;
 }
 
 .about-text {
@@ -102,7 +102,7 @@ footer p {
     padding: 0 18px;
   }
   .profile-img {
-    max-width: 140px;
+    max-width: 200px;
   }
   .about-text {
     max-width: 90%;
