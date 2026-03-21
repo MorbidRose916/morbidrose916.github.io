@@ -37,6 +37,12 @@ li a {
   font-size: 1.1em;
 }
 
+li p {
+  font-size: 0.9em;
+  color: #999;
+  margin-top: 5px;
+}
+
 hr {
   width: 60%;
   border: none;
