@@ -23,6 +23,20 @@ p {
   color: #bfbfbf;
 }
 
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+li a {
+  font-size: 1.1em;
+}
+
 hr {
   width: 60%;
   border: none;
