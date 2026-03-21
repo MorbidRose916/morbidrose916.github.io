@@ -134,6 +134,10 @@ a:hover {
   letter-spacing: 0.5px;
 }
 
+.shelf a h2 {
+  transition: color 0.2s ease;
+}
+
 .shelf a:hover h2 {
   color: #666;
 }
