@@ -45,15 +45,9 @@ hr {
   flex-direction: column;
 }
 
-.about img {
-  width: 150px;
-  height: auto;
-  border-radius: 4px;
-}
-
 .profile-img {
-  width: 350px;
-  max-width: 100%;
+  width: 100%;
+  max-width: 260px;
   height: auto;
   border-radius: 6px;
   margin: 20px auto;
@@ -103,7 +97,7 @@ footer p {
   }
   .profile-img {
     width: 50%;
-    max-width: 200px;
+    max-width: 160px;
   }
   .about-text {
     max-width: 90%;
