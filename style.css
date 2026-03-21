@@ -128,6 +128,9 @@ footer p {
     margin: 40px auto;
     padding: 0 18px;
   }
+  a {
+    color: #d3d3d3;
+  }
   .profile-img {
     width: 50%;
     max-width: 160px;
