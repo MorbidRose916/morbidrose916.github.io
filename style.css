@@ -39,6 +39,11 @@ li a {
   font-weight: 500;
 }
 
+li a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
 li p {
   font-size: 0.9em;
   color: #999;
