@@ -138,7 +138,7 @@ a:hover {
 .shelf ul {
   text-align: left;
   max-width: 500px;
-  margin: 10px 0 auto;
+  margin: 10px auto 0;
 }
 
 .shelf h2 {
