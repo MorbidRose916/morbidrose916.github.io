@@ -42,7 +42,7 @@ li a {
 li p {
   font-size: 0.9em;
   color: #999;
-  margin-top: 5px;
+  margin-top: 2px;
 }
 
 li:not(:last-child) {
