@@ -91,3 +91,15 @@ footer {
 footer p {
   margin: 5px 0;
 }
+
+@media (max-width: 600px) {
+  body {
+    margin: 40px auto;
+  }
+  .profile-img {
+    max-width: 140px;
+  }
+  .about-text {
+    max-width: 90%;
+  }
+}
