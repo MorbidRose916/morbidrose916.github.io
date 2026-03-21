@@ -62,7 +62,7 @@ hr {
 }
 
 a {
-  color: #d3d3d3;
+  color: #d4d4d4;
   text-decoration: none;
   transition: color 0.2s ease;
 }
@@ -104,7 +104,7 @@ a:hover {
 .library-link {
   margin-top: 30px;
   font-size: 0.95em;
-  color: #aaa;
+  color: #d4d4d4;
   text-decoration: none;
 }
 
@@ -127,9 +127,6 @@ footer p {
   body {
     margin: 40px auto;
     padding: 0 18px;
-  }
-  a {
-    color: #d3d3d3;
   }
   .profile-img {
     width: 50%;
