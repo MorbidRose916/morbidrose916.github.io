@@ -131,13 +131,16 @@ a:hover {
 
 .shelf h2 {
   margin-bottom: 5px;
-  font-weight: normal;
+  font-weight: 400;
   letter-spacing: 0.5px;
+  -webkit-font-smoothing: antialiased;
 }
 
 .shelf a h2 {
   transition: color 0.2s ease;
-  font-weight: normal;
+  font-weight: inherit;
+  color: inherit;
+  text-rendering: optimizeLegibility;
 }
 
 .shelf a:hover h2 {
