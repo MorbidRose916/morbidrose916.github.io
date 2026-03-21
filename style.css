@@ -118,8 +118,8 @@ a:hover {
 }
 
 .shelf a {
-  display: block;
-  padding: 10px 0;
+  display: inline-block;
+  padding: 5px 0;
   font-weight: normal;
 }
 
@@ -148,7 +148,7 @@ a:hover {
   content: "";
   display: block;
   width: 40%;
-  margin: 10px auto 0;
+  margin: 10px auto 20px;
   border-top: 1px solid #333;
   transition: width 0.2s ease;
 }
