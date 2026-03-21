@@ -120,6 +120,7 @@ a:hover {
 .shelf a {
   display: block;
   padding: 10px 0;
+  font-weight: normal;
 }
 
 .shelf ul {
@@ -136,6 +137,7 @@ a:hover {
 
 .shelf a h2 {
   transition: color 0.2s ease;
+  font-weight: normal;
 }
 
 .shelf a:hover h2 {
