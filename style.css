@@ -86,6 +86,7 @@ a:hover {
   margin-bottom: 25px;
   text-align: center;
 }
+
 .shelf a {
   display: inline-block;
 }
@@ -94,6 +95,10 @@ a:hover {
   margin-bottom: 5px;
   font-weight: normal;
   letter-spacing: 0.5px;
+}
+
+.shelf a:hover h2 {
+  color: #666;
 }
 
 .shelf::after {
