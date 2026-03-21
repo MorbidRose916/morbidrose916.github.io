@@ -35,7 +35,8 @@ li {
 }
 
 li a {
-  font-size: 1.1em;
+  font-size: 1.15em;
+  font-weight: 500;
 }
 
 li p {
