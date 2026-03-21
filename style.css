@@ -52,8 +52,8 @@ hr {
 }
 
 .profile-img {
-  width: 100%;
-  max-width: 350px;
+  width: 350px;
+  max-width: 100%;
   height: auto;
   border-radius: 6px;
   margin: 20px auto;
@@ -102,6 +102,7 @@ footer p {
     padding: 0 18px;
   }
   .profile-img {
+    width: 50%;
     max-width: 200px;
   }
   .about-text {
