@@ -157,14 +157,17 @@ a:hover {
 
 .library-link {
   margin-top: 20px;
-  font-size: 0.95em;
-  color: #d6d6d6;
+  font-size: 0.85em;
   text-decoration: none;
+  transition:
+    color 0.2s ease,
+    transform 0.2s ease;
 }
 
 .library-link hover {
   color: #666;
   font-size: 0.85em;
+  transform: translateY(-1px);
 }
 
 .nav-links {
