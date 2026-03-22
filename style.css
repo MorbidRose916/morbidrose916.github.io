@@ -287,3 +287,7 @@ footer p {
     align-items: center;
   }
 }
+
+.piece-content * {
+  all: revert;
+}
