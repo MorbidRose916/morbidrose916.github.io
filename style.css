@@ -243,13 +243,18 @@ footer p {
 }
 
 .piece-content {
-  max-width: 600px;
+  max-width: 560px;
   text-align: left;
 }
 
 .piece-content p {
-  margin-bottom: 18px;
+  margin-bottom: 22px;
+  line-height: 1.9px;
   text-align: center;
+}
+
+.piece-content p + p {
+  margin-top: 4px;
 }
 
 @media (max-width: 600px) {
