@@ -252,7 +252,7 @@ footer p {
 }
 
 .piece-content em {
-  font-styles: italic;
+  font-style: italic;
   color: #bfbfbf;
 }
 
@@ -266,7 +266,7 @@ footer p {
 
 .piece-content p {
   margin-bottom: 22px;
-  line-height: 1.9px;
+  line-height: 1.9;
   text-align: center;
 }
 
@@ -286,8 +286,4 @@ footer p {
     flex-direction: column !important;
     align-items: center;
   }
-}
-
-.piece-content * {
-  all: revert;
 }
