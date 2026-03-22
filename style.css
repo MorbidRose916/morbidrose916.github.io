@@ -247,14 +247,28 @@ footer p {
   text-align: left;
 }
 
+.piece-content strong {
+  font-weight: 600;
+  color: #e0dcf5;
+}
+
+.piece-content em {
+  font-styles: italic;
+  color: #bfbfbf;
+}
+
+.piece-content blockquote {
+  border-left: 2px solid #5a4b81;
+  padding-left: 12px;
+  margin: 20px 0;
+  color: #cfcfcf;
+  font-style: italic;
+}
+
 .piece-content p {
   margin-bottom: 22px;
   line-height: 1.9px;
   text-align: center;
-}
-
-.piece-content p + p {
-  margin-top: 4px;
 }
 
 @media (max-width: 600px) {
