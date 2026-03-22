@@ -87,7 +87,7 @@ hr {
   border-radius: 6px;
   margin: 20px auto;
   display: block;
-  border: 1px solid #555;
+  border: 1px solid #e0dcf5;
 }
 
 .about-text {
@@ -203,7 +203,7 @@ a:hover {
 
 .library-link {
   margin-top: 20px;
-  color: purple;
+  color: #e0dcf5;
   font-size: 0.85em;
   text-decoration: none;
   transition:
