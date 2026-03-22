@@ -149,10 +149,6 @@ a:hover {
   color: inherit;
 }
 
-.shelf p {
-  margin-top: 5px;
-}
-
 .shelf ul {
   text-align: left;
   max-width: 500px;
@@ -191,11 +187,15 @@ a:hover {
 }
 
 .piece-meta {
-  font-size: 0.6;
-  color: #888;
-  margin-top: 2px;
+  font-size: 0.8em;
+  color: #999;
+  margin-top: 4px;
   display: flex;
-  gap: 15px;
+  gap: 12px;
+}
+
+.piec-meta span {
+  opacity: 0.9;
 }
 
 .library-link {
