@@ -148,7 +148,7 @@ a:hover {
   padding: 12px 0;
   font-weight: normal;
   text-decoration: none;
-  color: inherit;
+  color: 5a4b81;
 }
 
 .shelf ul {
@@ -172,7 +172,7 @@ a:hover {
 }
 
 .shelf a:hover h2 {
-  color: #666;
+  color: #7a6aa8;
 }
 
 .shelf::after {
