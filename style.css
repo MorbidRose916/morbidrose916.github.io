@@ -196,6 +196,7 @@ a:hover {
 
 .piece-meta span {
   opacity: 0.9;
+  color: #777;
 }
 
 .library-link {
