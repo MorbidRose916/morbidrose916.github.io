@@ -35,7 +35,7 @@ li {
   padding-bottom: 15px;
 }
 
-li a {
+.piece-title {
   font-size: 1.15em;
   font-weight: 500;
 }
@@ -126,6 +126,7 @@ a:hover {
   max-width: 500px;
   padding: 12px 0;
   margin-bottom: 20px;
+  display: block;
   text-align: center;
   cursor: pointer;
   transition: transform 0.2s ease;
