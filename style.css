@@ -249,6 +249,7 @@ footer p {
 
 .piece-content p {
   margin-bottom: 18px;
+  text-align: center;
 }
 
 @media (max-width: 600px) {
