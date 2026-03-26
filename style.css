@@ -231,6 +231,7 @@ a:hover {
   border-radius: 12px;
   position: relative;
 }
+
 .video-wrapper iframe {
   position: absolute;
   top: 50%;
