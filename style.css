@@ -298,6 +298,13 @@ footer p {
   margin-top: 20px;
 }
 
+.edu-source {
+  font-size: 0.85em;
+  color: #888;
+  text-align: center;
+  margin-top: -10px;
+}
+
 .edu-block {
   text-align: left;
   max-width: 600px;
