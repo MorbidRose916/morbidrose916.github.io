@@ -289,56 +289,6 @@ footer p {
   text-align: center;
 }
 
-/* ===== EDUCATION PAGE ===== */
-
-.education {
-  display: flex;
-  flex-direction: column;
-  gap: 40px;
-  margin-top: 20px;
-}
-
-.edu-block {
-  text-align: left;
-  max-width: 600px;
-}
-
-.edu-block h2 {
-  font-weight: normal;
-  color: #e0dcf5;
-  margin-bottom: 10px;
-  letter-spacing: 0.5px;
-}
-
-.edu-block p {
-  margin-bottom: 14px;
-}
-
-.edu-block::after {
-  content: "";
-  display: block;
-  width: 40%;
-  margin: 10px auto 20px;
-  border-top: 1px solid #5a4b81;
-  transition: width 0.2s ease;
-}
-
-.edu-block:hover::after {
-  width: 60%;
-}
-
-.edu-block:last-child::after {
-  display: none;
-}
-
-/* SOURCE TEXT (Codecademy line) */
-.edu-source {
-  font-size: 0.85em;
-  color: #888;
-  text-align: center;
-  margin-top: -10px;
-}
-
 @media (max-width: 600px) {
   body {
     margin: 40px auto;
