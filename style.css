@@ -129,7 +129,6 @@ a:hover {
   margin-bottom: 20px;
   display: block;
   text-align: center;
-  cursor: pointer;
   transition: transform 0.2s ease;
 }
 
@@ -145,6 +144,7 @@ a:hover {
   display: block;
   width: 100%;
   padding: 12px 0;
+  cursor: pointer;
   font-weight: normal;
   text-decoration: none;
   color: 5a4b81;
